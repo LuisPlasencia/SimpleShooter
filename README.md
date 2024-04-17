@@ -1,7 +1,7 @@
 # SimpleShooter
 
 Unreal Engine 5.3 videogame project. <br>
-First Person shooter game.  <br>
+First Person shooter game with AI bots.  <br>
 - WASD to move
 - Left Click to Shoot
 - Space to jump
